@@ -1,0 +1,8 @@
+opencv_python
+pygame
+pybind11
+pyopengl
+scipy
+scikit-image
+sympy
+pyqt5
